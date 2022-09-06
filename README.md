@@ -1,4 +1,4 @@
-# edm
-Entity Database Model
+# es
+Entity System
 
-A database first Entity framework
+A Entity system
